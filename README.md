@@ -1,4 +1,4 @@
-# Calculator App
+# RSS Feed App
 ### Project Overview
 Creating a RSS Feed app
 
